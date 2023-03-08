@@ -1,2 +1,2 @@
 # Superformula
-Superformula equations by Alexander Miller
+Superformula equations by YouTuber- Alexander Miller
