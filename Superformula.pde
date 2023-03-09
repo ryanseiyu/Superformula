@@ -18,7 +18,7 @@ void draw() {
   beginShape();
   for (float theta = 0; theta <= 2 * PI; theta += 0.01) {
     float rad = r(theta,
-    2, //a
+    mouseX / 100.0, //a
     2, //b
     9, //m
     1, //n1
