@@ -1,8 +1,8 @@
 # Superformula
 Superformula equations by YouTuber - Alexander Miller
 
-## Links
+### Links
 [YouTube Link](https://www.youtube.com/watch?v=u6arTXBDYhQ&ab_channel=AlexanderMiller)
 
 ### Image
-![anima](/image/anima.gif)
+![anima](/images/anima.gif)
